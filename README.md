@@ -3,7 +3,7 @@
 An intelligent document-based Question Answering (QA) system powered by LLMs.
 
 ## 🚀 Features
-* **Document Upload:** Upload PDFs or notes easily.
+* **Document Upload:** put your otes easily.
 * **Natural Language QA:** Ask questions and get context-aware answers.
 * **Instant Extraction:** Get relevant info in seconds.
 
